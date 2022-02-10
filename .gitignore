@@ -1,0 +1,10 @@
+# Virtual Environments
+.venv
+
+# Cache Folders
+__pycache__
+__mypycache__
+.pytest_cache
+
+# Coverage Reports
+.coverage
